@@ -1,0 +1,1 @@
+/Users/Rex/Downloads/curlcpp-master/build/src/CMakeFiles/curlcpp.dir
